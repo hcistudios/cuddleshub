@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "946896229003",
+    "project_id": "cuddles-hub-b5bcd",
+    "storage_bucket": "cuddles-hub-b5bcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946896229003:android:1c70399b4c99f14c193a8e",
+        "android_client_info": {
+          "package_name": "com.cuddleshub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946896229003-0f881iru04oivhaddivl0fsi24cl75o5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cuddleshub",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "946896229003-7qirek1np727omakj02dp5r5r6moq77e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtoa5PThAZ03Sq2xOQD2As41jeJ6X4Ze0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946896229003-7qirek1np727omakj02dp5r5r6moq77e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "946896229003-2uonk5ql3ffi7l170i4h6q48d0lntic7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cuddleshub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

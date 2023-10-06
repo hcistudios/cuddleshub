@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>946896229003-2uonk5ql3ffi7l170i4h6q48d0lntic7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.946896229003-2uonk5ql3ffi7l170i4h6q48d0lntic7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>946896229003-0f881iru04oivhaddivl0fsi24cl75o5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD8pPeAZZMVppuxQXjg6uv58fOsm3TNJE8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>946896229003</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cuddleshub</string>
+	<key>PROJECT_ID</key>
+	<string>cuddles-hub-b5bcd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cuddles-hub-b5bcd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:946896229003:ios:03e70de82745ac21193a8e</string>
+</dict>
+</plist>
